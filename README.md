@@ -11,7 +11,7 @@
 <a href="https://twitter.com/sirwxgya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30" alt="Twitter" /></a>&nbsp;
 <a href="https://instagram.com/sirwagya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" alt="Instagram" /></a>&nbsp;
 <a href="https://behance.net/sirwagya"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" height="30" alt="Behance" /></a>&nbsp;
-<a href="https://youtube.com/sirwagya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@sirwagya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" alt="YouTube" /></a>
 
 <br />
 <br />
