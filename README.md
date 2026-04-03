@@ -1,76 +1,123 @@
 <div align="center">
 
-# Hi, I'm Sirwagya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
 
-### I build things for the web — currently working on a social platform exclusively for my cohort.
+# Sirwagya
 
-<br />
+**first-year CS student · AI & full stack intern · building in public**
 
-<a href="https://github.com/Sirwagya"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" /></a>&nbsp;
-<a href="https://linkedin.com/in/sirwxgya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/sirwxgya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30" alt="Twitter" /></a>&nbsp;
-<a href="https://instagram.com/sirwagya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" alt="Instagram" /></a>&nbsp;
-<a href="https://behance.net/sirwagya"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" height="30" alt="Behance" /></a>&nbsp;
-<a href="https://www.youtube.com/@sirwagya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" alt="YouTube" /></a>
+*IIT Madras B.S. Data Science · Vedam School of Technology, Pune*
 
-<br />
-<br />
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirwagya)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sirwxgya)&nbsp;
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sirwxgya)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sirwagya)&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sirwagya)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@sirwagya)
+
+</div>
 
 ---
 
-<br />
-
-### What I'm doing right now
-
-</div>
-<div align="center">
-I am currently building a private social media app for my cohort and learning JavaScript along with full-stack basics. My design exploration focuses on UI/UX, design systems, and clean layouts. I am always open to small open-source collaborations and frontend features. Feel free to reach me at <a href="mailto:sirwxgya@gmail.com">sirwxgya@gmail.com</a>.
-</div>
-
-<br />
-
 <div align="center">
 
-### The Toolkit
+### `> whoami`
 
-<br />
+</div>
 
-|                                     **Frontend**                                      |                                 **Backend & Database**                                  |
-| :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,py,java,mongodb,supabase" height="40"/> |
+I'm a 19-year-old CS student from Pune who codes, designs, and occasionally sings.  
+Currently interning as an **AI & Full Stack Intern** — working out of the founder's office, shipping real features, not just running tutorials.
 
-|                                **Tools, Deployment & Workflow**                                |                                  **Creative Tools**                                   |
-| :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,framer" height="40"/> | <img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender" height="40"/> |
+Studying **CS Engineering at VST** and **B.S. Data Science at IIT Madras** simultaneously.  
+I care about writing code that works *and* looks like someone thought about it.
 
-<br />
+When I'm not building — I'm grinding LeetCode in Java, exploring AI automation, or redesigning something that didn't need redesigning.
 
-### Coding Profile
+> *Open to remote internship opportunities (especially US-based). Let's talk.*  
+> 📬 [sirwxgya@gmail.com](mailto:sirwxgya@gmail.com)
 
-<br />
+---
 
-<a href="https://leetcode.com/sirwagya"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30"/></a>&nbsp;
-<a href="https://codeforces.com/profile/sirwagya"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="30"/></a>
+<div align="center">
 
-<br />
-<br />
+### `> current_focus`
 
-### Overview
+</div>
 
-<br />
+```
+🔨  AI & Full Stack Intern @ Once Upon Me (founder's office)
+🎓  B.S. Data Science — IIT Madras
+📚  CS Engineering, Year 1 — Vedam School of Technology, Pune
+🌐  Hunting for remote US internships
+🧠  LeetCode grind: Java · Trees · BSTs
+⚙️  n8n · Gemini API · Imagen 3 · automation workflows
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sirwagya&show_icons=true&bg_color=0d1117&title_color=2ea44f&text_color=b0b8c4&icon_color=2ea44f&hide_border=true" height="150" alt="Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sirwagya&layout=compact&bg_color=0d1117&title_color=2ea44f&text_color=b0b8c4&hide_border=true" height="150" alt="Top Languages" />
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirwagya&background=0d1117&fire=2ea44f&currStreakLabel=2ea44f&currStreakNum=b0b8c4&sideNums=b0b8c4&sideLabels=2ea44f&ring=2ea44f&hide_border=true" height="150" alt="Streak" />
+```
 
-<br />
-<br />
+---
 
-### Support
+<div align="center">
 
-<br />
+### `> stack`
 
-<a href="https://paypal.me/sirwagya"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="30" alt="Donate with PayPal"/></a>
+<br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="42"/>
+
+**Backend & AI**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,java" height="42"/>
+
+**Data & Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres" height="42"/>
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,docker" height="42"/>
+
+**Creative**
+
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender" height="42"/>
+
+<br/>
+
+### `> coding_profiles`
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sirwagya)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sirwagya)
+
+</div>
+
+---
+
+<div align="center">
+
+### `> stats`
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sirwagya&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=b0b8c4&icon_color=58a6ff&hide_border=true&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sirwagya&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=b0b8c4&hide_border=true" height="155"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirwagya&background=0d1117&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=b0b8c4&sideNums=b0b8c4&sideLabels=58a6ff&ring=58a6ff&hide_border=true" height="155"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*built from scratch · learning in public · born 2005*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 </div>
