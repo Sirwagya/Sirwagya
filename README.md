@@ -116,7 +116,7 @@ When I'm not building — I'm grinding LeetCode in Java, exploring AI automation
 
 <div align="center">
 
-*built from scratch · learning in public · born 2005*
+*built from scratch · learning in public · born 2006*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
