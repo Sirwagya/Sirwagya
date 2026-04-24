@@ -27,7 +27,7 @@
 
 </div>
 
-I'm a 19-year-old CS student from Pune who codes, designs, and occasionally sings.  
+I'm a 19-year-old CS student from Pune who codes, and designs.
 Currently interning as an **AI & Full Stack Intern** — working out of the founder's office, shipping real features, not just running tutorials.
 
 Studying **CS Engineering at VST** and **B.S. Data Science at IIT Madras** simultaneously.  
