@@ -66,7 +66,7 @@ When I'm not building — I'm grinding LeetCode in Java, exploring AI automation
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" height="42"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" height="42"/>
 
 **Backend & AI**
 
