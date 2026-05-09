@@ -70,7 +70,7 @@ When I'm not building — I'm grinding LeetCode in Java, exploring AI automation
 
 **Backend & AI**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,java" height="42"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi" height="42"/>
 
 **Data & Databases**
 
