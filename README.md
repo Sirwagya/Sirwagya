@@ -5,8 +5,7 @@
 # Sirwagya
 
 **first-year CS student · AI & full stack intern · building in public**
-
-*IIT Madras B.S. Data Science · Vedam School of Technology, Pune*
+*Vedam School of Technology, Pune*
 
 <br/>
 
@@ -30,7 +29,7 @@
 I'm a 19-year-old CS student from Pune who codes, and designs.
 Currently interning as an **AI & Full Stack Intern** — working out of the founder's office, shipping real features, not just running tutorials.
 
-Studying **CS Engineering at VST** and **B.S. Data Science at IIT Madras** simultaneously.  
+Studying **CS Engineering at VST** 
 I care about writing code that works *and* looks like someone thought about it.
 
 When I'm not building — I'm grinding LeetCode in Java, exploring AI automation, or redesigning something that didn't need redesigning.
@@ -48,7 +47,6 @@ When I'm not building — I'm grinding LeetCode in Java, exploring AI automation
 
 ```
 🔨  AI & Full Stack Intern @ Once Upon Me (founder's office)
-🎓  B.S. Data Science — IIT Madras
 📚  CS Engineering, Year 1 — Vedam School of Technology, Pune
 🌐  Hunting for remote US internships
 🧠  LeetCode grind: Java · Trees · BSTs
